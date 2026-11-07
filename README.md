@@ -24,7 +24,7 @@ A Computer Science student passionate about coding, exploring AI, and building i
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/fayaz-ali-a61538261/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:chandiofayazali356@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email"/></a>
 
 <br/><br/>
